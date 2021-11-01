@@ -1,0 +1,15 @@
+{
+  "name": "platformer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "p5P": "p5 generate -b Battle"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p5-manager": "^1.4.0"
+  }
+}
